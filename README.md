@@ -20,14 +20,24 @@
 
 - Jupyter Notebook-Python 
 
-### Exploratory Data Analysis: 
+### Data Processing:
+
+#### Database Creation and Data Import:
+
+#### Data Cleaning and Preparation: 
+- Removing Duplicates
+- Handling Missing and Null Values
+- Standardizing Data types 
+
+#### Exploratory Data Analysis (EDA): 
 
 
    
+### Data Visualization:
+
+
+
 ### Findings:
-
-
-
 
 
 
